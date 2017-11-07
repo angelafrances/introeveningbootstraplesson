@@ -1,0 +1,15 @@
+.jumbotron-fluid {
+    background: url("https://blazepress.com/.image/t_share/MTI4OTkzMjM5MDUwMDM3ODkx/funny-animal-reaction-gifs-20.gif") no-repeat center center fixed ;
+    background-size: cover;
+    height: 100vh;
+}
+
+.jumbotron-fluid h1 {
+     margin-top: 40vh;
+     text-align: center;
+     color: pink;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
